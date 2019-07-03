@@ -8,7 +8,7 @@ preserveTaxonomyNames = true
   # Unmark to use post folder for images. Default is static folder.
   #usepostimgfolder = true
   slogan = "20, 21 y 22 de septiembre (La Paz, BO)"
-  description = "Evento de hackers a realizarse en el Centro Cultural Dragón Wari, La Paz, Bolivia." # meta description
+  description = "Evento libre y abierto para comunidades hacker de todas partes."
   copyright = [
     "(ↄ) 2019 Comisión Hackmeeting 0x7e3 La Paz",
   ]
