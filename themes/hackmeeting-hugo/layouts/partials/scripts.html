@@ -1,0 +1,18 @@
+
+<script src="{{ "js/jquery.min.js" | absURL }}"></script>
+<script src="{{ "js/jquerymigrate.js" | absURL }}"></script>
+<script src="{{ "js/flipclock.min.js" | absURL }}"></script>
+<script src="{{ "js/hackmeeting.js" | absURL }}?v={{ now.Unix }}"></script>
+
+<script type="text/javascript">
+  var _paq = window._paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://webtelemetry.constanze.l10e.net/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '17']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
