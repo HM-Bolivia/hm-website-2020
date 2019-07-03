@@ -38,7 +38,7 @@ Aunque no nos restringimos a ciertas áreas exclusivas, el Hackmeeting presentó
     * Redes Libres - Wireless Mesh Networks
     * OpenStreetMap
   * Privacidad
-  * Hacking random
+  * Más Hacking
     * Lockpicking
     * Raspberry Pi
 
