@@ -10,7 +10,7 @@ title = "Call For Papers"
 
 ## ¡Buscamos expositores!
 
-En un congreso o conferencia común, unos pocos realizan el trabajo duro. Pero el Hackmeeting es más dinámico: todos somos expertos en algo, e intercambiamos libremente nuestro conocimiento.
+En un congreso o conferencia común, unos pocos realizan el trabajo duro. Pero el Hackmeeting es más dinámico: todos somos buenos en algo, e intercambiamos libremente nuestro conocimiento.
 El hecho de que todos aporten su granito de arena es lo que ha permitido al Hackmeeting alcanzar su décimo aniversario este año como un evento abierto y sin fines de lucro.
 
 Además de nuestras Charlas Improvisadas (puedes ofrecer dar una en el momento del evento), tenemos espacios dedicados para Charlas Programadas, Talleres y Charlas Secretas. Si deseas apartar un ambiente y horario dedicado para tu charla o taller, puedes postular a nuestro Call For Papers **hasta el día viernes 30 de Agosto** en el siguiente enlace:

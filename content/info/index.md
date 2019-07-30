@@ -17,19 +17,6 @@ Citemos el texto de [hackmeeting.org](https://es.hackmeeting.org/hm/index.php?ti
 
 > El hackmeeting pasa por ti, y tú pasas por él... Al volver a casa te quedas con el buen sabor de lo efímero, con la pasión por lo complejo, con la curiosidad por lo desconocido, con la crítica frente a lo injusto, con un proyecto, con una idea, con el deseo de volver.
 
-En la actualidad, el Hackmeeting es un evento libre y abierto donde varios miembros de comunidades [hacker](https://www.elmundo.es/tecnologia/2014/10/27/544dea28ca474156028b456b.html) se reúnen una vez al año para realizar actividades relacionadas con las nuevas tecnologías y/o las problemáticas actuales (Seguridad informática, Software Libre, Hacklabs, Redes Libres, Soberanía digital, etc.).
-
-Se suelen realizar ciclos de conferencias y _desconferencias_, las comunidades pueden exponer sus trabajos, organizar talleres o mesas redondas de discusión; además de festejar en conjunto los logros obtenidos y empezar a coordinar esfuerzos para los desafíos del futuro.
-
-Aunque el Hackmeeting se celebra también en otras partes de Europa y Latinoamérica, la organización es independiente por cada país.
-
-<!-- 
-### ¿Cómo inició el evento?
-
-El evento ha iniciado como una reunión de amigos donde se decidió abrir las puertas al público. En la página de [Historia del Hackmeeting](/historia/) tenemos más.
-
--->
-
 ### ¿Cómo va la organización para este año?
 
 El Hackmeeting **ha alcanzado su décimo aniversario este año**, y siendo un evento autogestionado y sin fines de lucro, creemos que es un logro importante y estamos dispuestos a dar lo mejor de nosotros para este evento.

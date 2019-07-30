@@ -13,9 +13,24 @@
 
 .cuentaregresiva {
   zoom: 0.7 !important;
-  -moz-transform: scale(0.7) !important;
   width: 630px !important;
   margin:0 auto !important;
+}
+
+.logos {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.logos li  {
+  display: inline-block;
+  margin: 20px;
+}
+
+.nota {
+  font-style: italic;
+  color: #485460;
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
