@@ -418,8 +418,6 @@
     opacity: 0; } }
 
 @media only screen and (max-width: 360px) {
-  .cuentaregresiva { margin-left: 100px !important; }
-
   .clock { margin: 0 auto; display: block; width: 100%; }
 
   .flip-clock-wrapper ul { height: 35px; line-height: 35px; margin:2px; width: 24px !important;}
@@ -442,7 +440,6 @@
 
 @media only screen and (min-width: 361px) and (max-width: 480px) {
   .clock { margin: 0 auto; display: block; width: 100%; }
-  .cuentaregresiva { margin-left: 100px !important; }
 
   .flip-clock-wrapper ul { height: 35px; line-height: 35px; margin:2px; width: 30px !important;}
   .flip-clock-wrapper ul li a div.up:after { top: 16px; }
@@ -464,7 +461,6 @@
 
 @media screen and (min-width: 481px) and (max-width: 767px) {
   .clock { margin: 0 auto; display: block; width: 100%; }
-  .cuentaregresiva { margin-left: 100px !important; }
 
   .flip-clock-wrapper ul { height: 50px; line-height: 50px; }
   .flip-clock-wrapper ul li a div.up:after { top: 24px; }
