@@ -26,12 +26,13 @@
 .logos li  {
   display: inline-block;
   margin: 20px;
+  width: 210px;
+  height: 200px;
 }
 
 .logos.auspicio li {
-  width: 210px;
-  height: 150px;
   background-color: #fff;
+  height: 150px;
 }
 
 
