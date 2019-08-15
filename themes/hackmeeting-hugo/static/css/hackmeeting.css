@@ -28,9 +28,27 @@
   margin: 20px;
 }
 
+.logos.auspicio li {
+  width: 210px;
+  height: 150px;
+  background-color: #fff;
+}
+
+
+.logos li a img {
+  padding: 15px;
+  margin: auto;
+  display: block;
+}
+
+.logos li a {
+  display: block;
+  height: 100%;
+}
+
 .nota {
   font-style: italic;
-  color: #485460;
+  color: #bac2ca;
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
