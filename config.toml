@@ -3,6 +3,7 @@ title = "HACKMEETING 0x7e3"
 theme = "hackmeeting-hugo"
 languageCode = "es"
 preserveTaxonomyNames = true
+enableEmoji = true
 
 [params]
   # Unmark to use post folder for images. Default is static folder.
@@ -30,15 +31,15 @@ preserveTaxonomyNames = true
   weight = 3
 
   [[menu.main]]
-  name = "CFP"
-  url = "cfp/"
+  name = "Charlas"
+  url = "charlas/"
   weight = 4
-  
+
   #[[menu.main]]
   #name = "Cronograma"
   #url = "cronograma/"
   #weight = 4
-  
+
   #[[menu.main]]
   #name = "Quiero Participar"
   #url = "participar/"
@@ -48,9 +49,9 @@ preserveTaxonomyNames = true
   name = "Contacto"
   url = "contacto/"
   weight = 6
-  
+
   [[menu.main]]
   name = "Memorias"
   url = "https://memorias.hackmeeting.org.bo/"
   weight = 7
-  
+
