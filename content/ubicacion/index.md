@@ -21,7 +21,7 @@ Donde bajarse:
 <img style="display: block; margin: 0 auto;" src="/img/tembladerani0.jpg" />
 <img style="display: block; margin: 0 auto;" src="/img/tembladerani1.jpg" />
 
-
+Centro Cultural Dragon Wari!!
 
 <img style="display: block; margin: 0 auto;" src="/img/llama.jpg" alt="Imagen: el Dragón Wari se destaca por una cabeza de llama" />
 
