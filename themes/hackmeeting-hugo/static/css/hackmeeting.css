@@ -10,7 +10,10 @@
 .contenido {
   text-align: justify;
 }
-
+.hm2019-envivo {
+    width: 854px;
+    height: 480px;
+}
 .cuentaregresiva {
   zoom: 0.7 !important;
   width: 630px !important;

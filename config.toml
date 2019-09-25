@@ -35,10 +35,10 @@ enableEmoji = true
   url = "charlas/"
   weight = 4
 
-  #[[menu.main]]
-  #name = "Cronograma"
-  #url = "cronograma/"
-  #weight = 4
+  [[menu.main]]
+  name = "En vivo"
+  url = "envivo/"
+  weight = 5
 
   #[[menu.main]]
   #name = "Quiero Participar"
