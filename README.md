@@ -1,7 +1,7 @@
-Hackmeeting 0x7e3
-=================
+Hackmeeting Yacuiba 2020
+========================
 
-Sitio web para el Hackmeeting 2019 escrito en Markdown y procesado con [Hugo](https://gohugo.io/).
+Sitio web para el Hackmeeting 2020 escrito en Markdown y procesado con [Hugo Framework](https://gohugo.io/).
 
 Quiero editar!
 --------------
