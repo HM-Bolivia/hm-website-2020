@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HACKMEETING 0x7e3</title>
+    <link>https://0x7e3.hackmeeting.org.bo/</link>
+    <description>Recent content on HACKMEETING 0x7e3</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    
+	<atom:link href="https://0x7e3.hackmeeting.org.bo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Charlas</title>
+      <link>https://0x7e3.hackmeeting.org.bo/charlas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0x7e3.hackmeeting.org.bo/charlas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>https://0x7e3.hackmeeting.org.bo/contacto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0x7e3.hackmeeting.org.bo/contacto/</guid>
+      <description>Para asistentes Aún no anunciamos los canales de contacto y redes sociales oficiales, pero puedes contactarte con la organización a la dirección de correo:
+hackmeeting [@] hackmeeting.org.bo.
+Tenemos clave GPG también: D881 B9DA 3E4E CA18 3873 DB9E 855D B92F 24B9 BDC6.</description>
+    </item>
+    
+    <item>
+      <title>Hackmeeting en Vivo</title>
+      <link>https://0x7e3.hackmeeting.org.bo/envivo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0x7e3.hackmeeting.org.bo/envivo/</guid>
+      <description> var player = videojs(&#34;hm2019-envivo&#34;);player.play();Fallback en YouTube</description>
+    </item>
+    
+    <item>
+      <title>Información</title>
+      <link>https://0x7e3.hackmeeting.org.bo/info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0x7e3.hackmeeting.org.bo/info/</guid>
+      <description>Preguntas Frecuentes ¿qué es Hackmeeting? Citemos el texto de hackmeeting.org:
+ La palabra Hackmeeting fue acuñada a finales de los 90, en Italia, para referirse a un espacio donde se reúnen hackers y activistas sociales.
+  Hackmeeting es un experimento desprovisto de acartonados formatos y rígidas pre-determinaciones. Es un espacio donde los nicks se convierten en personas y donde las asambleas virtuales devienen acción efectiva desde el punto de vista intelectual, afectivo y social para avanzar desarrollos libertarios.</description>
+    </item>
+    
+    <item>
+      <title>Ubicación</title>
+      <link>https://0x7e3.hackmeeting.org.bo/ubicacion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0x7e3.hackmeeting.org.bo/ubicacion/</guid>
+      <description>Sede: Centro Cultural &amp;ldquo;Dragón Wari&amp;rdquo; El Centro Cultural &amp;ldquo;Dragón Wari&amp;rdquo; está ubicado en la esquina de las calles José Saravia y Pioneros de Rochdale, a dos cuadras del Estadio Bolívar (Tembladerani) y la Av. Landaeta cerca al Ex. Cine Ebro.
+MAPADe donde tomar minibuses Para llegar al Centro Cultural Dragon Warideben tomar los minibuses que van hacia el Estadio Bolivar subiendo por la Av. Landaeta. Estos minibuses se encuentran parados al frente de la Plaza del Estudiante(iniciando El Prado), el pasaje cuesta Bs.</description>
+    </item>
+    
+  </channel>
+</rss>

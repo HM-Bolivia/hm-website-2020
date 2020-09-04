@@ -1,0 +1,96 @@
+.logo-wrapper {
+  width: 510px;
+  margin: 0 auto;
+}
+.hm-logo {
+  width: 500px;
+  height: 500px;
+  margin-bottom: 10px;
+}
+.contenido {
+  text-align: justify;
+}
+.hm2019-envivo {
+    width: 854px;
+    height: 480px;
+}
+.cuentaregresiva {
+  zoom: 0.7 !important;
+  width: 630px !important;
+  margin:0 auto !important;
+}
+
+.logos {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.logos li  {
+  display: inline-block;
+  margin: 20px;
+  width: 210px;
+  height: 200px;
+}
+
+.logos.auspicio li {
+  background-color: #fff;
+  height: 150px;
+}
+
+
+.logos li a img {
+  padding: 15px;
+  margin: auto;
+  display: block;
+}
+
+.logos li a {
+  display: block;
+  height: 100%;
+}
+
+.nota {
+  font-style: italic;
+  color: #bac2ca;
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .logo-wrapper {
+    width: 100%;
+  }
+  .hm-logo {
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  .logo-wrapper {
+    width: 100%;
+  }
+  .hm-logo {
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+  .logo-wrapper {
+    width: 100%;
+  }
+  .hm-logo {
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .logo-wrapper {
+    width: 100%;
+  }
+  .hm-logo {
+    width: 100%;
+    height: auto;
+  }
+}
