@@ -1,0 +1,34 @@
+{{ define "body" }}
+
+<body class="post-template-default single single-post single-format-standard ct-body singular singular-post not-front standard">
+{{ end }}
+
+
+{{ define "main" }}
+  <div id="loop-container" class="loop-container">
+    {{ if and (isset .Params "image") .Params.image }}
+    <div class="post type-post status-publish format-standard has-post-thumbnail hentry category-design tag-design tag-standard-2 tag-tagalicious tag-travel entry full-without-featured odd excerpt-1">
+
+      <div class='featured-image lazy lazy-bg-image' {{ if isset .Site.Params "usepostimgfolder" }} data-background="{{ .Permalink }}{{ .Params.image }}"{{ else }} data-background="{{ .Params.image | absURL }}"{{ end }}>
+      </div>
+      {{ else }}
+
+      <div class="post type-post status-publish format-standard hentry category-standard category-travel entry full-without-featured odd excerpt-1">
+
+        {{ end }}
+        <div class='entry-header' style="padding-top: 4em;">
+          <h1 class='entry-title'> {{ .Title }}</h1>
+        </div>
+        <div class="entry-container">
+          <div class="entry-content">
+            <article>
+              {{ .Content }}
+            </article>
+          </div>
+	</div>
+
+</div>
+</div>
+</div>
+
+{{ end }}
