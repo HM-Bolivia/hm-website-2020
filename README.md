@@ -1,21 +1,53 @@
-Hackmeeting Yacuiba 2020
-========================
+# Hackmeeting Yacuiba 2020
 
-Sitio web para el Hackmeeting 2020 escrito en Markdown y procesado con [Hugo Framework](https://gohugo.io/).
+Sitio Web para el Hackmeeting 2020, escrito en markdown y procesado con [Hugo Framework](https://gohugo.io/).
 
-Quiero editar!
---------------
+## Estructura de Repositorio
 
-Las páginas estáticas están en /content.
-
-La página de inicio está en themes/hackmeeting-hugo/layouts/index.html.
-
-
-## Correr en modo desarrollo
-Para correr el sitio en modo desarrollo principalmente es descargar el binario de [Hugo](https://github.com/gohugoio/hugo/releases). Una vez instalado ir al directorio del proyecto y ejecutar lo siguiente:
-
-```
-$ hugo -D server --watch
+```bash
+    Ramas (branch)
+        |-- master
+        |	`-- Hugo Framework
+        |-- deploy
+        	`-- Carpeta public (Sitio Estatico Generado con Hugo Framework)
 ```
 
-Lo cual creará un servidor de desarrollo en [http://localhost:1313/](http://localhost:1313/).
+## Clonar el repositorio para pruebas en local
+
+Para agregar nuevo contenido se debe clonar el proyecto y crear la carpeta **public**: 
+
+```bash
+    $ git clone git@github.com:Hackmeeting-Bolivia/hm-website-2020.git
+    $ cd hm-website-2020
+    $ mkdir public
+    $ git worktree add -B deploy public origin/deploy
+```
+
+## Agregar nuevo contenido
+
+Luego de clonar el repositorio podemos agregar contenido en la carpeta /content.
+
+```bash
+    $ hugo new post/charlas.md
+    $ hugo server --watch -D        # (*)
+    $ hugo -D
+```
+
+(*) Creará un servidor de desarrollo en [http://localhost:1313/](http://localhost:1313/).
+
+## Subir los cambios
+
+Luego de editar el contenido podemos subir los datos al reposiorio.
+
+```bash
+    # Para la rama master con Hugo
+    $ git add .
+    $ git commit -m 'New post'
+    $ git push origin master
+
+    # Para la rama deploy, sitio estático
+    $ cd public
+    $ git add .
+    $ git commit -m 'New post static'
+    $ git push origin deploy
+```
