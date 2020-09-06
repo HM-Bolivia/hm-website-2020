@@ -17,7 +17,7 @@ Sitio Web para el Hackmeeting 2020, escrito en markdown y procesado con [Hugo Fr
 Para agregar nuevo contenido se debe clonar el proyecto y crear la carpeta **public**: 
 
 ```bash
-    $ git clone git@github.com:Hackmeeting-Bolivia/hm-website-2020.git
+    $ git clone --recurse-submodules git@github.com:Hackmeeting-Bolivia/hm-website-2020.git
     $ cd hm-website-2020
     $ mkdir public
     $ git worktree add -B deploy public origin/deploy
