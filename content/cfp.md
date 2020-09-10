@@ -1,5 +1,5 @@
 ---
-title: "CPF"
+title: "CFP"
 draft: false
 ---
 **Call For Papers**
