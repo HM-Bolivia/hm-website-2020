@@ -1,12 +1,9 @@
 ---
 title: "Info"
-date: 2020-09-08T15:55:53-04:00
 draft: false
 ---
 
-¿Qué es Hackmeeting?
-
-Citemos el texto de hackmeeting.org:
+**¿Qué es Hackmeeting?**
 
 La palabra Hackmeeting fue acuñada a finales de los 90, en Italia, para referirse a un espacio donde se reúnen hackers y activistas sociales.
 
@@ -16,7 +13,7 @@ Desde el año 2000, esta comunidad heterogénea de apasionados por las tecnolog�
 
 El hackmeeting pasa por ti, y tú pasas por él… Al volver a casa te quedas con el buen sabor de lo efímero, con la pasión por lo complejo, con la curiosidad por lo desconocido, con la crítica frente a lo injusto, con un proyecto, con una idea, con el deseo de volver.
 
-Este año 2020 celebramos la XI decimo primer Version siguiendo la cultura de este evento autogestionado por la comunidad hackmeeting de bolivia y sin fines de lucro, siempre con la vision compartir y difundir los conocimientos para el mayor desarrollo y crecimeinto de nuestro pais.
+Este año 2020 celebramos la XI decimo primer Version siguiendo la cultura de este evento autogestionado por la **Comunidad Hackmeeting de Bolivia** y sin fines de lucro, siempre con la vision compartir y difundir los conocimientos para el mayor desarrollo y crecimeinto de nuestro pais.
 
 
-la Organizacion.
+La Organización.
