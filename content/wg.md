@@ -1,11 +1,11 @@
 ---
-title: "War Games"
+title: "CTF"
 draft: true
 ---
 **¿Qué es?**
 
-Es una actividad que contiene una serie de pruebas con simulaciones de vulnerabilidades en diferentes servicios en Internet, pruebas de Ingeniería Inversa, Criptografía, así como problemas de programación y algoritmia.
+**Captura la Bandera (Capture The Flag)** es una actividad que contiene una serie de pruebas con simulaciones de vulnerabilidades en diferentes servicios en Internet, pruebas de Ingeniería Inversa, Criptografía, así como problemas de programación y algoritmia.
 
-Este Juego se habilitará al inicio del evento. Cronograma 9 de octubre de 2020
+Estos Juegos se habilitan los días del evento, la información y detalles se publicaran en este espacio, anda armando tu equipo y anda prepradnote que vamos a tener mucho para que juegues.
 
-Te esperamos!!!
+Happy Hacking!!!
