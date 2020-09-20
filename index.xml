@@ -5,34 +5,11 @@
     <link>https://0x7e4.hackmeeting.org.bo/</link>
     <description>Recent content in HM 0x7e4 - Yacuiba on HM 0x7E4 - Yacuiba</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://0x7e4.hackmeeting.org.bo/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>CFP</title>
-      <link>https://0x7e4.hackmeeting.org.bo/cfp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://0x7e4.hackmeeting.org.bo/cfp/</guid>
-      <description>Call For Papers Se tienen programadas diferentes actividades: conferencias, foros, reuniones, talleres, mesas redondas y la participación de comunidades y/o profesionales independientes, pueden presentar su trabajo o participar de todas y cada una de las actividades del eventos con el único fin de continuar aprendiendo, compartiendo en comunidad y empezar a coordinar esfuerzos para los desafíos del futuro y las exigencias que nos plantea la sociedad y la tecnología que avanza cada día.</description>
-    </item>
-    
-    <item>
-      <title>Charlas</title>
-      <link>https://0x7e4.hackmeeting.org.bo/charlas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://0x7e4.hackmeeting.org.bo/charlas/</guid>
-      <description>Aun no tenemos el programa completo y final, cuando este listo estara en este espacio.
-Viernes 6 de Noviembre    Nro. Expositor Tema Descripción Hora     1.       2.       3.        Sábado 7 de Noviembre    Nro. Expositor Tema Descripción Hora     1.       2.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://0x7e4.hackmeeting.org.bo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contacto</title>
       <link>https://0x7e4.hackmeeting.org.bo/contacto/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 -0400</pubDate>
       
       <guid>https://0x7e4.hackmeeting.org.bo/contacto/</guid>
       <description>Para Asistentes Para mas información del evento puedes escribirnos al correo:
@@ -43,7 +20,7 @@ Viernes 6 de Noviembre    Nro. Expositor Tema Descripción Hora     1.       2. 
     <item>
       <title>CTF</title>
       <link>https://0x7e4.hackmeeting.org.bo/wg/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 05 Sep 2020 00:00:00 -0400</pubDate>
       
       <guid>https://0x7e4.hackmeeting.org.bo/wg/</guid>
       <description>¿Qué es?
@@ -52,9 +29,28 @@ Estos Juegos se habilitan los días del evento, la información y detalles se pu
     </item>
     
     <item>
+      <title>CFP</title>
+      <link>https://0x7e4.hackmeeting.org.bo/cfp/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://0x7e4.hackmeeting.org.bo/cfp/</guid>
+      <description>Call For Papers Se tienen programadas diferentes actividades: conferencias, foros, reuniones, talleres, mesas redondas y la participación de comunidades y/o profesionales independientes, pueden presentar su trabajo o participar de todas y cada una de las actividades del eventos con el único fin de continuar aprendiendo, compartiendo en comunidad y empezar a coordinar esfuerzos para los desafíos del futuro y las exigencias que nos plantea la sociedad y la tecnología que avanza cada día.</description>
+    </item>
+    
+    <item>
+      <title>Charlas</title>
+      <link>https://0x7e4.hackmeeting.org.bo/charlas/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://0x7e4.hackmeeting.org.bo/charlas/</guid>
+      <description>Aun no tenemos el programa completo y final, cuando este listo estara en este espacio.
+Viernes 6 de Noviembre    Nro. Expositor Tema Descripción Hora     1.       2.       3.        Sábado 7 de Noviembre    Nro. Expositor Tema Descripción Hora     1.       2.</description>
+    </item>
+    
+    <item>
       <title>Info</title>
       <link>https://0x7e4.hackmeeting.org.bo/info/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 -0400</pubDate>
       
       <guid>https://0x7e4.hackmeeting.org.bo/info/</guid>
       <description>¿Qué es el Hackmeeting?

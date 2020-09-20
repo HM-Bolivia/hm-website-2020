@@ -3,31 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://0x7e4.hackmeeting.org.bo/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://0x7e4.hackmeeting.org.bo/cfp/</loc>
-  </url>
-  
-  <url>
-    <loc>https://0x7e4.hackmeeting.org.bo/charlas/</loc>
-  </url>
-  
-  <url>
     <loc>https://0x7e4.hackmeeting.org.bo/contacto/</loc>
+    <lastmod>2020-09-10T00:00:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://0x7e4.hackmeeting.org.bo/wg/</loc>
+    <lastmod>2020-09-05T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://0x7e4.hackmeeting.org.bo/</loc>
+    <loc>https://0x7e4.hackmeeting.org.bo/cfp/</loc>
+    <lastmod>2020-09-02T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://0x7e4.hackmeeting.org.bo/charlas/</loc>
+    <lastmod>2020-09-02T00:00:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://0x7e4.hackmeeting.org.bo/info/</loc>
+    <lastmod>2020-09-01T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://0x7e4.hackmeeting.org.bo/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://0x7e4.hackmeeting.org.bo/</loc>
   </url>
   
   <url>
