@@ -1,6 +1,7 @@
 ---
 title: "Contacto"
 draft: false
+date: 2020-09-10T00:00:00-04:00
 ---
 ### Para Asistentes
 

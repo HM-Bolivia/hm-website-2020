@@ -1,8 +1,9 @@
 ---
 title: "Charlas"
 draft: false
+date: 2020-09-02T00:00:00-04:00
 ---
-Aun no tenemos el programa completo y final, cuando este listo estara en este espacio. 
+Aun no tenemos el programa completo y final, cuando este listo estara en este espacio.
 
 ### Viernes 6 de Noviembre
 

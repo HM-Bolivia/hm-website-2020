@@ -1,6 +1,7 @@
 ---
 title: "Info"
 draft: false
+date: 2020-09-01T00:00:00-04:00
 ---
 **¿Qué es el Hackmeeting?**
 
