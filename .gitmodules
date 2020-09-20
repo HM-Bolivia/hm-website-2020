@@ -1,3 +1,3 @@
 [submodule "themes/dimension"]
 	path = themes/dimension
-	url = https://github.com/your-identity/hugo-theme-dimension.git
+	url = git@github.com:Hackmeeting-Bolivia/hugo-theme-dimension.git
