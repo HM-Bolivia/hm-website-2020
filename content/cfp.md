@@ -5,14 +5,37 @@ date: 2020-09-02T00:00:00-04:00
 ---
 ### Call For Papers
 
-Se tienen programadas diferentes actividades: conferencias, foros, reuniones, talleres, mesas redondas y la participación de comunidades y/o profesionales independientes, pueden presentar su trabajo o participar de todas y cada una de las actividades del eventos con el único fin de continuar aprendiendo, compartiendo en comunidad y empezar a coordinar esfuerzos para los desafíos del futuro y las exigencias que nos plantea la sociedad y la tecnología que avanza cada día.
+> El Call For Papers **finaliza el Domingo 18 de Octubre**. No esperes al último momento :)
 
-### Quiero presentar una Charla o Taller
+#### Quiero presentar una Charla o Actividad
+Si deseas formar parte del evento como speaker y compartir conocimiento, puedes proponer un tema o actividad mediante el siguiente [**Formulario de Registro**](https://cfp.hackmeeting.org.bo/index.php/669716?lang=es-MX).
 
-Si quieres ser parte del evento como expositor, compartir conocimiento, puedes proponer un tema o una actividad, envía tu propuesta y registrate en el siguiente formulario:
 
-Esperamos tu propuesta en el: [**Formulario de Registro**](https://cfp.hackmeeting.org.bo/index.php/669716?lang=es-MX)
+Entre las actividades tenemos: Charlas, Foros, Talleres y Mesas Redondas. Aunque no nos restringimos a ciertos temas, en el pasado se presentaron charlas sobre:
 
-Nos gusta la seguridad informática, pero también nos aprender sobre otros temas, puedes proponer otros temas que creas que son de importnacia.
+* Hacking y Seguridad Informática
+  * Criptografía
+  * Pentesting
+  * Desarrollo seguro
+  * Demostraciones de vulnerabilidades
+  * Seguridad en la Nube
+  * Ingeniería Social
+  * Hardware Hacking
+  * Wireless Hacking
+* Software Libre
+  * Distribuciones GNU/Linux
+* Cultura Hacker
+* Nuevas tecnologías y herramientas
+  * Inteligencia Artificial
+* Videojuegos
+* Proyectos ciudadano-comunitarios
+  * Redes Libres - Wireless Mesh Networks
+  * OpenStreetMap
+  * Wikimedia
+* Privacidad
+* Más Hacking :)
+  * Arduino
+  * Raspberry Pi
+  * Lockpicking
 
-Gracias desde Yacuiba, Bolivia!!!
+Gracias por tu apoyo desde Yacuiba, Bolivia!!!
