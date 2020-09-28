@@ -264,8 +264,12 @@ i {
   font-style: italic;
 }
 
+blockquote p {
+  margin: 0 0 0 0;
+}
+
 p {
-  margin: 0 0 2rem 0;
+  margin: 0 0 1rem 0;
 }
 
 h1,
@@ -847,6 +851,7 @@ ul {
   list-style: disc;
   margin: 0 0 2rem 0;
   padding-left: 1em;
+  margin-block-end: 0;
 }
 
 ul li {
