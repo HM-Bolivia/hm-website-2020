@@ -8,7 +8,7 @@ date: 2020-09-02T00:00:00-04:00
 > El Call For Papers **finaliza el Domingo 18 de Octubre**. No esperes al último momento :)
 
 #### Quiero presentar una Charla o Actividad
-Si deseas formar parte del evento como speaker y compartir conocimiento, puedes proponer un tema o actividad mediante el siguiente [**Formulario de Registro**](https://cfp.hackmeeting.org.bo/index.php/669716?lang=es-MX).
+Si deseas formar parte del evento como speaker y compartir conocimiento, puedes proponer un tema o actividad mediante el siguiente [**Formulario de Registro**](https://www.cognitoforms.com/HackmeetingBolivia/callforpapershackmeeting0x7e4).
 
 
 Entre las actividades tenemos: Charlas, Foros, Talleres y Mesas Redondas. Aunque no nos restringimos a ciertos temas, en el pasado se presentaron charlas sobre:
