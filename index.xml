@@ -18,6 +18,37 @@
     </item>
     
     <item>
+      <title>CTF</title>
+      <link>https://0x7e4.hackmeeting.org.bo/wg/</link>
+      <pubDate>Sat, 05 Sep 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://0x7e4.hackmeeting.org.bo/wg/</guid>
+      <description>¿Qué es?
+Captura la Bandera (Capture The Flag) es una actividad que contiene una serie de pruebas con simulaciones de vulnerabilidades en diferentes servicios en Internet, pruebas de Ingeniería Inversa, Criptografía, así como problemas de programación y algoritmia.
+Estos Juegos se habilitan los días del evento, la información y detalles se publicaran en este espacio, anda armando tu equipo y anda prepradnote que vamos a tener mucho para que juegues.</description>
+    </item>
+    
+    <item>
+      <title>Charlas Domingo 08-11</title>
+      <link>https://0x7e4.hackmeeting.org.bo/charlas-domingo/</link>
+      <pubDate>Wed, 02 Sep 2020 00:03:00 -0400</pubDate>
+      
+      <guid>https://0x7e4.hackmeeting.org.bo/charlas-domingo/</guid>
+      <description>Domingo 8 de Noviembre Todas las horas están en GMT-4.
+   Hora Tema Tema Desde     15:00-15:45 XSS Basiquito! d3xd3v Bolivia   15:45-16:30 Reverse shell sobre WAN Eyver Vargas Bolivia   16:30-17:15 Hacking Wifi 2020 en Bolivia Jorge Martinez Bolivia   17:15-18:00 Hardware Hacking 101 Mike Rueda Estados Unidos   18:00-18:45 Contingencia en entornos educativos virtuales Raul Coronado Bolivia   18:45-19:30 Taller de mapeo comunitario con Open Street Map Nah_omy Bolivia   19:30-20:15 Lenguaje Rust: Nueva herramienta aplicada a la seguridad Erick Poppe Bolivia   20:15-21:00 Nuestro ADN: La siguiente revolución en almacenamiento de datos Richard Villca Bolivia    </description>
+    </item>
+    
+    <item>
+      <title>Charlas Sábado 07-11</title>
+      <link>https://0x7e4.hackmeeting.org.bo/charlas-sabado/</link>
+      <pubDate>Wed, 02 Sep 2020 00:01:00 -0400</pubDate>
+      
+      <guid>https://0x7e4.hackmeeting.org.bo/charlas-sabado/</guid>
+      <description>Sábado 7 de Noviembre Todas las horas están en GMT-4.
+   Hora Tema Tema Desde     15:00-15:45 Breve introducción a selfhosting (Crea tu propia nube) Isaias J. Cruz Bolivia   15:45-16:30 Pwning networks on 10 min. or less Felipe Montescino Chile   16:30-17:15 Teaching tech together Lupe Canaviri Bolivia   17:15-18:00 Introducción a tecnología SDR Fransico Javier Castañeta Bolivia   18:00-18:45 Pentesting/recon automation with Bash Vay3t Chile   18:45-19:30 Automatización de ciberataques y ciberdefensa Ing.</description>
+    </item>
+    
+    <item>
       <title>CFP</title>
       <link>https://0x7e4.hackmeeting.org.bo/cfp/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 -0400</pubDate>
@@ -29,13 +60,13 @@ Entre las actividades tenemos: Charlas, Foros, Talleres y Mesas Redondas. Aunque
     </item>
     
     <item>
-      <title>Charlas</title>
-      <link>https://0x7e4.hackmeeting.org.bo/charlas/</link>
+      <title>Charlas Viernes 06-11</title>
+      <link>https://0x7e4.hackmeeting.org.bo/charlas-viernes/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 -0400</pubDate>
       
-      <guid>https://0x7e4.hackmeeting.org.bo/charlas/</guid>
-      <description>Aun no tenemos el programa completo y final, cuando este listo estara en este espacio.
-Viernes 6 de Noviembre    Nro. Expositor Tema Descripción Hora     1.       2.       3.        Sábado 7 de Noviembre    Nro. Expositor Tema Descripción Hora     1.       2.</description>
+      <guid>https://0x7e4.hackmeeting.org.bo/charlas-viernes/</guid>
+      <description>Viernes 6 de Noviembre Todas las horas están en GMT-4.
+   Hora Actividad Expositor/a Desde     18:30-19:00 Inaguración del evento Equipo de Organizacion Yacuiba - Bolivia   19:00-19:45 Hacking con buscadores Ruddy Flores Bolivia   19:45-20:30 Programación orientada al estimiento Laura Sainz Bolivia   20:30-21:15 Charlas sorpresa! Monic H2SO4 Ciudadana del Internet   21:15-22:00 Vulnerabilidades en plugins Wordpress Luisiño Pericena Bolivia    </description>
     </item>
     
     <item>
