@@ -1,6 +1,6 @@
 ---
 title: "CFP"
-draft: false
+draft: true
 date: 2020-09-02T00:00:00-04:00
 ---
 ### Call For Papers
